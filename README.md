@@ -10,16 +10,19 @@ So here we will apply various classification algorithms after splitting the data
 
 After making the model the accuracies of different algorithms came out as the following :
 
-Logistic Regression -
+Logistic Regression -  89%
 
-KNN -
+KNN - 93%
 
-SVM(Support Vector Machine) -
+SVM(Support Vector Machine) - 90%
 
-Kernel SVM -
+Kernel SVM - 93 %
 
-Naive Bayes -
+Naive Bayes -  90%
 
-Decision Tree -
+Decision Tree -  91 %
 
-Random Forest - 
+Random Forest - 91 %
+
+
+so from the above results we can deduce that the accuracies are around 90% with best accuracies being shown by the KNN and Kernel SVM algorithms.
